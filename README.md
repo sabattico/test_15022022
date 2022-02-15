@@ -4,4 +4,4 @@ Crear repo en GITHUB
 Clonar repositorio
 Modificacion README
 Commit Local
-Subir cambios
+Subir
