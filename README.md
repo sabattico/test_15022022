@@ -6,3 +6,4 @@ pruebas con GIT:
 - Confirmar cambios (git Commit)
 - Enviar cambios a GITHUB (git pull)
 
+That's all
